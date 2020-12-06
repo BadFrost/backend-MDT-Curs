@@ -34,7 +34,7 @@ ngrok http 4040
 ```
 3. Скопировать полученное доменное имя (http:// {доменное имя} .ngrok.io) из консоли
 
-4. Вставить доменное имя в файл ```sh config.js ``` в проекте [mobile-MDT-Curs](https://github.com/BadFrost/mobile-MDT-Curs)
+4. Вставить доменное имя в файл ```config.js``` в проекте [mobile-MDT-Curs](https://github.com/BadFrost/mobile-MDT-Curs)
 
 License
 ----
