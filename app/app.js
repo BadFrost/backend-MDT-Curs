@@ -22,7 +22,7 @@ app.route('/getDates').post(async (req, res) => {
     }
     else {
         res.send('Dates not found!')
-    }
+    };
 });
 
 app.route('/register').post(async (req, res) => {
